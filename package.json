@@ -22,7 +22,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "WJC5197",
   "license": "CC0-1.0",
   "eslintConfig": {
     "extends": [
@@ -38,7 +38,6 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "serialport": "^10.3.0",
-    "tableify": "^1.1.1",
     "web-vitals": "^2.1.4"
   },
   "browserslist": {
@@ -54,6 +53,7 @@
     ]
   },
   "devDependencies": {
-    "react-app-rewired": "^2.2.1"
+    "react-app-rewired": "^2.2.1",
+    "electron-reloader": "^1.2.3"
   }
 }
